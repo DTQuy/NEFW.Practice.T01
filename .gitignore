@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NEFW.Practice.T01/NEFW.Practice.T01.Core/.vs
+/NEFW.Practice.T01/NEFW.Practice.T01.Core/bin/Debug/net7.0
+/NEFW.Practice.T01/NEFW.Practice.T01.Core/obj
+/NEFW.Practice.T01/NEFW.Practice.T01.DataAccessLayer/obj
+/NEFW.Practice.T01/NEFW.Practice.T01.DataAccessLayer
+/NEFW.Practice.T01/NEFW.Practice.T01.DataAccessLayerr/bin/Debug/net7.0
+/NEFW.Practice.T01/NEFW.Practice.T01.DataAccessLayerr/obj
+/NEFW.Practice.T01/NEFW.Practice.T01.UnitTest/bin/Debug/net7.0
+/NEFW.Practice.T01/NEFW.Practice.T01.UnitTest/obj
